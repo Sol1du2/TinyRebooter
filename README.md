@@ -15,10 +15,10 @@ On top of the `main.c` (really it's pretty much the only useful file) are a few 
 
 # It doesn't work!!!
 
-- Are you on Windows? Forget it, this is just for linux.
+- Are you on Windows? Forget it, this is just for Linux.
 - Does it work on Mac? Honestly, no clue, you tell me.
 - Are you on Linux? Check with your distro. Some do not have this Magic key available by default and you need to configure it.
 
 # 3D Prints
 
-Yes, I made a little case for it. No, I have nothing else better to do. You can download the CAD files from my [thingiverse page](). Hate thingiverse? Well, me too, kinda. But I'm too lazy to upload it elsewhere.
+Yes, I made a little case for it. No, I have nothing else better to do. You can download the CAD files from my [thingiverse page](https://www.thingiverse.com/thing:6047147). Hate thingiverse? Well, me too, kinda. But I'm too lazy to upload it elsewhere.
